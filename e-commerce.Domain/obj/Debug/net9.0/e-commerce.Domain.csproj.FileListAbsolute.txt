@@ -1,0 +1,12 @@
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\obj\Debug\net9.0\e-commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\obj\Debug\net9.0\e-commerce.Domain.AssemblyInfoInputs.cache
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\obj\Debug\net9.0\e-commerce.Domain.AssemblyInfo.cs
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\obj\Debug\net9.0\e-commerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\bin\Debug\net9.0\e-commerce.Domain.deps.json
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\bin\Debug\net9.0\e-commerce.Domain.dll
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\bin\Debug\net9.0\e-commerce.Domain.pdb
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\obj\Debug\net9.0\e-commerce.Domain.csproj.AssemblyReference.cache
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\obj\Debug\net9.0\e-commerce.Domain.dll
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\obj\Debug\net9.0\refint\e-commerce.Domain.dll
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\obj\Debug\net9.0\e-commerce.Domain.pdb
+C:\Users\aliaa\source\repos\MVC Tasks\e-commerce.Domain\obj\Debug\net9.0\ref\e-commerce.Domain.dll
